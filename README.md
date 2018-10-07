@@ -18,6 +18,4 @@ yarn start
 ```
 https://cryptic-island-51349.herokuapp.com/
 ```
-![Screenshot](https://drive.google.com/file/d/1fQTkDacBuJH0q7WRs9myDCAVxMjiLWFs/view?usp=sharing)
-
-
+![screenshot](https://user-images.githubusercontent.com/37082848/46588485-70045680-ca5a-11e8-9b99-010741bf7708.gif)
