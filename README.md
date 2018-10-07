@@ -14,7 +14,10 @@ yarn install
 ```
 yarn start
 ```
-4. Play on Heroku:
+4. Heroku:
 ```
-heroku...
+https://cryptic-island-51349.herokuapp.com/
 ```
+![Screenshot](https://drive.google.com/file/d/1fQTkDacBuJH0q7WRs9myDCAVxMjiLWFs/view?usp=sharing)
+
+
