@@ -1,48 +1,48 @@
 [{
-  "name": "apples",
-  "url": "./images/apples.jpg"
+  "name": "contra",
+  "url": "./images/contra.jpg"
 },
 {
-  "name": "blackberries",
-  "url": "./images/blackberry.jpg"
+  "name": "dance",
+  "url": "./images/dance.jpg"
 },
 {
-  "name": "blueberries",
-  "url": "./images/blueberries.jpg"
+  "name": "donkeykong",
+  "url": "./images/donkeykong.jpg"
 },
 {
-  "name": "cherries",
-  "url": "./images/cherries.jpg"
+  "name": "duckhunt",
+  "url": "./images/duckhunt.jpg"
 },
 {
-  "name": "grapes",
-  "url": "./images/grapes.jpg"
+  "name": "kirby",
+  "url": "./images/kirby.jpg"
 },
 {
-  "name": "oranges",
-  "url": "./images/orange.jpg"
+  "name": "kirbystarhighfive",
+  "url": "./images/kirbystarhighfive.jpg"
 },
 {
-  "name": "peaches",
-  "url": "./images/peaches.jpg"
+  "name": "marioextraspin",
+  "url": "./images/marioextraspin.jpg"
 },
 {
-  "name": "pears",
-  "url": "./images/pears.jpg"
+  "name": "marioworld",
+  "url": "./images/marioworld.jpg"
 },
 {
-  "name": "plums",
-  "url": "./images/plums.jpg"
+  "name": "toad",
+  "url": "./images/toad.jpg"
 },
 {
-  "name": "pomegranates",
-  "url": "./images/pomegranate.jpg"
+  "name": "waluigi",
+  "url": "./images/waluigi.jpg"
 },
 {
-  "name": "raspberries",
-  "url": "./images/raspberries.jpg"
+  "name": "zelda",
+  "url": "./images/zelda.jpg"
 },
 {
-  "name": "strawberries",
-  "url": "./images/strawberries.jpg"
+  "name": "koopa",
+  "url": "./images/koopa.jpg"
 }]
